@@ -6,6 +6,7 @@ Creating a Node.JS application during the rocketseat course, some topics was use
   The following topics that was used development of this app:
     <ul>
       <li>HTTP Native Server</li>
+      <li>Fastify Server</li>
       <li>API Rest - CRUD</li>
       <li>Request Params(Body, Query, Route)</li>
       <li>Memory Database</li>
