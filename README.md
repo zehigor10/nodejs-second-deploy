@@ -1,7 +1,7 @@
-# Application
-Creating a Node.JS application during the rocketseat course, some topics was used to obtain knowledges and learn how to host and create a server Node.JS
+# Node.JS Application
+Creating a Node.JS application during the rocketseat course, some topics was used to obtain knowledges and learn how to host and create a Node.JS server
 
-## 💻 Knowledges: 
+## 💻 Knowledges/Developments: 
 <p>
   The following topics that was used development of this app:
     <ul>
